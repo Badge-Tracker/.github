@@ -1,12 +1,4 @@
 ## Hi there 👋
 
-<!--
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+The Girl Guide Badge Tracker is an application which provides Girl Guide leaders the ability to efficiently store and update badge progress. Our goal is to streamline the administrative side of Girl Guide badges to save time and to ensure the guides get their badges swiftly.
